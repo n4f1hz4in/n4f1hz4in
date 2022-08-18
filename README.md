@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n4f1hz4in
-- 👀 I’m interested in cybersec research
-- 🌱 I’m currently learning tricks 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Interested on cybersec research
+- 🌱 Currently practicing  
+- 💞️ I’m looking to collaborate on cybersec projects.
 - 📫 How to reach me ...
 
 <!---
