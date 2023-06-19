@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n4f1hz4in
 - 👀 I’m interested in cybersec research
-- 🌱 I’m currently learning tricks 
+- 🌱 I’m currently learning about techs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
