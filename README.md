@@ -20,7 +20,7 @@
 <img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview.png" alt="cisco" width="150" height="150"/> </a> <img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview(1).png" alt="cisco" width="150" height="150"/> </a> </p>
 <br>
 
-<div align="left">
+<div align="right">
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4f1hz4in&show_icons=true&locale=en&layout=compact" alt="n4f1hz4in" /></p>
 </div>
 <br>
