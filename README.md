@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n4f1hz4in&label=Profile%20views&color=0e75b6&style=flat" alt="n4f1hz4in" /> </p>
 
-<p align="center">📫🚀🚀 Reach me out: **stupidzerox@gmail.com**
+<p align="center">📫🚀🚀 Reach me out:**stupidzerox@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
