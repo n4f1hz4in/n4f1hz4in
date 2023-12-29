@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafih Zain</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="400"> -->
- <center><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/What-is-ZoomBombing-and-how-to-prevent-zoom-hacking.gif" align="center" width="500"></center>
+ <center><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/What-is-ZoomBombing-and-how-to-prevent-zoom-hacking.gif" width="500"></center>
  
 
 <br><br>
