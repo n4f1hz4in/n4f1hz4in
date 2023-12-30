@@ -16,7 +16,7 @@
 <br>
  <br>
 <h3 align="center">Digital Badges📛</h3>
-<p align="left"><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview.png" alt="cisco" width="100" height="100"/></a><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview(1).png" alt="cisco" width="100" height="100"/> </a></p>
+<p align="left"><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview.png" alt="cisco" width="100" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/first/image-removebg-preview(1).png" alt="cisco" width="100" height="100"/> </a></p>
 <br>
 
 <div align="left">
